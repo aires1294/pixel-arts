@@ -21,36 +21,32 @@ h1 {
     margin: 30px;
   }
 
-.cor1 {
+.black {
     background-color: black;
 }
 
-.cor2 {
+.red {
     background-color: red;
 }
 
-.cor3 {
+.orange {
     background-color: orange;
 }
 
-.cor4 {
+.gray {
     background-color: gray;
 }
 
 #pixel-board {
     margin-left: 30px;
-    background-color: white;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    width: 210px;
+    font-size: 0;
   }
 
-/*.pixel{
+.pixel{
     background-color: white;
-    margin:0px;
     height: 40px;
     width: 40px;
     border: 1px solid black;
+    display: inline-block;
 }
 
