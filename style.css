@@ -1,0 +1,27 @@
+#color-palete{
+    width: 50%;
+  margin: auto;
+}
+
+.color {
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+  }
+
+.cor1 {
+    background-color: black;
+}
+
+.cor2 {
+    background-color: red;
+}
+
+.cor3 {
+    background-color: orange;
+}
+
+.cor4 {
+    background-color: gray;
+}
