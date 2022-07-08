@@ -20,9 +20,7 @@ h1 {
     border: 1px solid black;
     margin: 30px;
   }
-.selected {
-  box-shadow: 1px 1px black;
-}
+
 
 .black {
     background-color: black;
@@ -41,12 +39,13 @@ h1 {
 }
 
 #pixel-board {
+  background-color: white;
     margin-left: 30px;
     font-size: 0;
   }
 
 .pixel{
-    background-color: white;
+    
     height: 40px;
     width: 40px;
     border: 1px solid black;
