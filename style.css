@@ -20,6 +20,9 @@ h1 {
     border: 1px solid black;
     margin: 30px;
   }
+.selected {
+  box-shadow: 1px 1px black;
+}
 
 .black {
     background-color: black;
