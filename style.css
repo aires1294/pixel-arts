@@ -38,14 +38,19 @@ h1 {
     background-color: gray;
 }
 
+.white {
+   background-color: white;
+}
+
 #pixel-board {
-  background-color: white;
+  
     margin-left: 30px;
     font-size: 0;
+    
   }
 
 .pixel{
-    
+    background-color: white;
     height: 40px;
     width: 40px;
     border: 1px solid black;
